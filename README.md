@@ -52,10 +52,3 @@ This app was made for one of my clients and the add provided the feature to stor
 
 [GitHub Repo](https://github.com/harsh2201/QR-Parking-App)
 
-## [Spark - Students Handbook](https://github.com/harsh2201/QR-Parking-App)
-
-![QSpark - Students Handbook](https://harshjobanputra.ml/static/ca874eef939a8a9f7e50a4cdef354161/91cba/demo.png)
-
-Spark! is an android application that I created in my 3rd sem for my college in which the users can access the basic details about the faculties and also their weekly schedule. The users can also view the results of the students and the faculties can upload the results. There is also an option to view the lab vacancy for the labs.
-
-[GitHub Repo](https://github.com/harsh2201/Spark-Faculty-Informtion-Application)
